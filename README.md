@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yusuf</h1>
+<!-- <h1 align="center">Hi 👋, I'm Yusuf</h1>
 
 <h3 align="center">
   B.Tech CSE Student | Full Stack Developer | Problem Solver
@@ -167,4 +167,4 @@ Applications built with React, Node.js, Express, and MongoDB.
 
 <p align="center">
   ⭐ Thanks for visiting my profile! Happy Coding! 🚀
-</p>
+</p> -->
